@@ -98,7 +98,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_6_1.png)
+![png](images/output_6_1.png)
     
 
 
@@ -116,7 +116,7 @@ chart = sns.distplot(rosn[0]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_7_1.png)
+![png](images/output_7_1.png)
     
 
 
@@ -141,7 +141,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_8_1.png)
+![png](images/output_8_1.png)
     
 
 
@@ -159,7 +159,7 @@ chart = sns.distplot(rosn[1]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_9_1.png)
+![png](images/output_9_1.png)
     
 
 
@@ -184,7 +184,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_10_1.png)
+![png](images/output_10_1.png)
     
 
 
@@ -202,7 +202,7 @@ chart = sns.distplot(rosn[2]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_11_1.png)
+![png](images/output_11_1.png)
     
 
 
@@ -227,7 +227,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_12_1.png)
+![png](images/output_12_1.png)
     
 
 
@@ -245,7 +245,7 @@ chart = sns.distplot(rosn[3]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_13_1.png)
+![png](images/output_13_1.png)
     
 
 
@@ -270,7 +270,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_14_1.png)
+![png](images/output_14_1.png)
     
 
 
@@ -288,7 +288,7 @@ chart = sns.distplot(rosnQuarter, hist=True, kde=True, bins = m,  color = "darkb
 
 
     
-![png](output_15_1.png)
+![png](images/output_15_1.png)
     
 
 
@@ -313,7 +313,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_16_1.png)
+![png](images/output_16_1.png)
     
 
 
@@ -331,7 +331,7 @@ chart = sns.distplot(sibn[0]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_17_1.png)
+![png](images/output_17_1.png)
     
 
 
@@ -356,7 +356,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_18_1.png)
+![png](images/output_18_1.png)
     
 
 
@@ -374,7 +374,7 @@ chart = sns.distplot(sibn[1]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_19_1.png)
+![png](images/output_19_1.png)
     
 
 
@@ -399,7 +399,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_20_1.png)
+![png](images/output_20_1.png)
     
 
 
@@ -417,7 +417,7 @@ chart = sns.distplot(sibn[2]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_21_1.png)
+![png](images/output_21_1.png)
     
 
 
@@ -442,7 +442,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_22_1.png)
+![png](images/output_22_1.png)
     
 
 
@@ -460,7 +460,7 @@ chart = sns.distplot(sibn[3]["LogProfit"], hist=True, kde=True, bins = m,  color
 
 
     
-![png](output_23_1.png)
+![png](images/output_23_1.png)
     
 
 
@@ -485,7 +485,7 @@ ax.plot(coor[0], coor[1])
 
 
     
-![png](output_24_1.png)
+![png](images/output_24_1.png)
     
 
 
@@ -503,7 +503,7 @@ chart = sns.distplot(sibnQuarter, hist=True, kde=True, bins = m,  color = "darkb
 
 
     
-![png](output_25_1.png)
+![png](images/output_25_1.png)
     
 
 
@@ -623,7 +623,7 @@ ax.plot(x,y)
 
 
     
-![png](output_27_1.png)
+![png](images/output_27_1.png)
     
 
 
@@ -651,7 +651,7 @@ ax.plot(x,y)
 
 
     
-![png](output_28_1.png)
+![png](images/output_28_1.png)
     
 
 
@@ -679,7 +679,7 @@ ax.plot(x,y)
 
 
     
-![png](output_29_1.png)
+![png](images/output_29_1.png)
     
 
 
@@ -707,7 +707,7 @@ ax.plot(x,y)
 
 
     
-![png](output_30_1.png)
+![png](images/output_30_1.png)
     
 
 
@@ -735,7 +735,7 @@ ax.plot(x,y)
 
 
     
-![png](output_31_1.png)
+![png](images/output_31_1.png)
     
 
 
@@ -851,7 +851,7 @@ ax.plot(x,y)
 
 
     
-![png](output_33_1.png)
+![png](images/output_33_1.png)
     
 
 
@@ -879,7 +879,7 @@ ax.plot(x,y)
 
 
     
-![png](output_34_1.png)
+![png](images/output_34_1.png)
     
 
 
@@ -907,7 +907,7 @@ ax.plot(x,y)
 
 
     
-![png](output_35_1.png)
+![png](images/output_35_1.png)
     
 
 
@@ -935,7 +935,7 @@ ax.plot(x,y)
 
 
     
-![png](output_36_1.png)
+![png](images/output_36_1.png)
     
 
 
@@ -963,6 +963,6 @@ ax.plot(x,y)
 
 
     
-![png](output_37_1.png)
+![png](images/output_37_1.png)
     
 
