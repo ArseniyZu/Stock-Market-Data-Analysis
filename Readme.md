@@ -55,7 +55,7 @@ sibnQuarter.append(np.log(CloseSibn[-1] / OpenSibn[-1]))
 
 
 ```python
-# Функции для рассчетов по формулам главы 3 КР
+# Функции для рассчетов
 def datas(List):
     m = int(1 + 3.322*np.log(len(List))) # Вычисляем M интервалов
     step = ((max(List)) - (min(List))) / (m - 1) # Вычисляем шаг (дельта r)
